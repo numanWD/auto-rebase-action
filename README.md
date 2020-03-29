@@ -1,2 +1,2 @@
 # auto-rebase-action
-PoC to Autorebase Pr
+PoC to Autorebase Pull request
